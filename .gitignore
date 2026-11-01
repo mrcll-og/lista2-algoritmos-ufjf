@@ -1,0 +1,11 @@
+# Ignorar pasta de build/compilação (Recomendado)
+build/
+bin/
+
+# Ignorar ficheiros de objeto e binários soltos
+*.o
+*.out
+a.out
+
+# Se os executáveis não tiverem extensão e estiverem misturados, 
+# podes optar por compilar sempre para uma pasta separada.
